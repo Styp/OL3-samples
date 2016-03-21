@@ -1,0 +1,18 @@
+body {
+
+}
+
+.map {
+    height: 96%;
+    width: 96%;
+}
+.ol-attribution {
+    max-width: calc(100% - 3em);
+}
+.ol-control button, .ol-attribution, .ol-scale-line-inner {
+    font-family: 'Lucida Grande',Verdana,Geneva,Lucida,Arial,Helvetica,sans-serif;
+}
+
+body, h1, h2, h3, h4, p, li, td, th {
+    font-family: Helvetica;
+}
